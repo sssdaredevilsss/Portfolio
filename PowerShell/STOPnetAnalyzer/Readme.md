@@ -1,0 +1,1 @@
+You can automate any routine aupdate, from AD or another database using variativs of this script

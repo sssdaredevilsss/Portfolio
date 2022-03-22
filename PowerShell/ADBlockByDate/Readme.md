@@ -1,0 +1,1 @@
+Set triger and script will block AD users by last logon date with report on mail or telegram
